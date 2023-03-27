@@ -1,0 +1,6 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/spfx-serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "initialPage": "https://postfallsidahoorg.sharepoint.com/sites/TestHub2/ittesting/_layouts/workbench.aspx"
+}
